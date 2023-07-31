@@ -1,5 +1,3 @@
-# Exercise1
-
 # How to install typescript on windows
 
 To install TypeScript on Windows, you can use Node.js package manager, npm (Node Package Manager), which comes bundled with Node.js. Here's a step-by-step guide to installing TypeScript on your Windows machine:
@@ -37,7 +35,7 @@ To install TypeScript on Windows, you can use Node.js package manager, npm (Node
 
 That's it! TypeScript is now installed on your Windows machine. 
 
-# How to Compile TypeScript Files
+How to Compile TypeScript Files
 
 Introduction:
 "Welcome back to our TypeScript insght with kamran! here, we'll learn how to compile TypeScript files into JavaScript using the `tsc` command. Let's get started!"
