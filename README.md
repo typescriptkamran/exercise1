@@ -1,4 +1,4 @@
-# project1
+# Exercise1
 How to Compile TypeScript Files
 
 Introduction:
